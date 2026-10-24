@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "themes": [
+    {
+      "id": "grape_dark",
+      "name": "Grape Dark",
+      "author": "Pinecone",
+      "description": "Dark theme with soft purple tones.",
+      "version": "1.0",
+      "zip": "themes/grape_dark.zip",
+      "sha256": "94964d63df8c96c0dce8bcfc7827eaa9e9c53298e376bbd5c822e4de4d05886e",
+      "preview": "previews/grape_dark.png"
+    },
+    {
+      "id": "ocean_dark",
+      "name": "Ocean Dark",
+      "author": "Pinecone",
+      "description": "Deep blue dark theme with a bright sky-blue accent.",
+      "version": "1.0",
+      "zip": "themes/ocean_dark.zip",
+      "sha256": "156e726d177f9e6ec2e8c645b4916dedcc203a48a1eb39eb2434231a6f0d2481",
+      "preview": "previews/ocean_dark.png"
+    },
+    {
+      "id": "sunset_light",
+      "name": "Sunset Light",
+      "author": "Pinecone",
+      "description": "Warm light theme with an orange accent.",
+      "version": "1.0",
+      "zip": "themes/sunset_light.zip",
+      "sha256": "21b936e4e676a9cd125a320af2c4246ac32af90aee0f4a13826e192d612d15b8",
+      "preview": "previews/sunset_light.png"
+    }
+  ]
+}
